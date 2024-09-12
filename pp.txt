@@ -1,0 +1,40 @@
+Privacy Policy for Techni Schools Discord Bot
+1. Information Collection
+
+The Techni Schools Discord Bot ("Bot") may collect certain information from you when you interact with it. This information may include:
+
+Your Discord username and user ID
+Your interactions with the Bot, such as messages sent and commands used
+Any personal information you voluntarily provide, such as your name or email address
+2. Information Use
+
+The collected information may be used for the following purposes:
+
+To provide you with the services and features of the Bot
+To improve the Bot's functionality and performance
+To respond to your inquiries and provide support
+To analyze user behavior and trends
+3. Information Sharing
+
+We may share your information with third parties in the following circumstances:
+
+To comply with applicable laws or regulations   
+To protect the rights or property of Techni Schools or others
+In connection with a merger, acquisition, or sale of assets
+4. Data Security
+
+We take reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is completely secure.   
+
+5. Your Rights
+
+You may have certain rights regarding your personal information, such as the right to access, correct, or delete your information. To exercise these rights, please contact us at [Contact Information].   
+
+6. Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be effective upon posting on this page.   
+
+7. Contact Information
+
+For any questions or concerns regarding this Privacy Policy or the Bot, please contact [Contact Information].
+
+By using the Techni Schools Discord Bot, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
